@@ -37,7 +37,7 @@ For excessively large files, we have performed multi-volume compression.
 
 ## Usage Instructions
 
-All students and teachers are welcome to download and use the materials in this repository for collaborative learning and progress. If you have any questions or suggestions, please feel free to submit an issue or pull request.
+All students are welcome to download and use the materials in this repository for collaborative learning and progress. If you have any questions or suggestions, please feel free to submit an issue or pull request.
 
 ## Contribution
 
