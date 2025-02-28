@@ -1,27 +1,5 @@
 建议在[个人博客](https://sihan0229.github.io/2024/06/04/XJTU-ELEC427304-Big-Data-Notes.html)中查看
 
----
-layout: post  
-title: "XJTU-ELEC427304 Big Data Notes"  
-date: 2024-06-04 19:10 +0800  
-last_modified_at: 2024-06-19 19:18 +0800  
-tags: [Course Note]  
-math: true  r
-toc: true 
-excerpt: "Course notes of XJTU-ELEC427304 (TBC)."
----
-<style>
-        h1 { font: 26pt Times !important; }
-        h2 { font: 20pt Times !important; }
-        h3 { font: 16pt Times !important; }
-</style>
-
-| 评分项目 | 详细描述 | 权重 |
-| --- | --- | --- |
-| 闭卷考试 | 由每人出20分左右的题目组成 | 40-45% |
-| 课堂测试|选择题 | 5-10% |
-| 个人大作业 | 采用了什么模型<br>选择了哪些特征作为input，为什么<br>数据预处理<br>output是什么<br>对输出的分析<br>和别人的比较<br>未来展望改进方向<br>training的过程<br>test的过程<br>超参数是如何调整的 | 50% |
-
 
 # Introduction
 
