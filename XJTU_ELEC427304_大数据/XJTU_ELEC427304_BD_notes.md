@@ -1,3 +1,5 @@
+建议在[个人博客](https://sihan0229.github.io/2024/06/04/XJTU-ELEC427304-Big-Data-Notes.html)中查看
+
 ---
 layout: post  
 title: "XJTU-ELEC427304 Big Data Notes"  
