@@ -19,6 +19,7 @@
     * [XJTU\_ELEC426304\_电路](https://github.com/Sihan0229/XJTUnotes_Gifted_Yonth-Automation_TsienHsueshen/tree/main/XJTU_ELEC426304_%E7%94%B5%E8%B7%AF)
     * [XJTU\_AUTO402227\_机器人学](https://github.com/Sihan0229/XJTU-AUTO402227-MATLAB)          
     * [XJTU\_JZSJ400127\_智能车项目设计](https://github.com/Sihan0229/XJTU-JZSJ400127)
+    * [XJTU\_MATH413107\_数值分析&计算方法](https://github.com/Sihan0229/XJTUnotes_Gifted_Yonth-Automation_TsienHsueshen/tree/main/XJTU_MATH413107_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%26%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95)
 * **电气辅修课程：**
 
     * [XJTU\_ELEC427304\_大数据](https://github.com/Sihan0229/XJTUnotes_Gifted_Yonth-Automation_TsienHsueshen/tree/main/XJTU_ELEC427304_%E5%A4%A7%E6%95%B0%E6%8D%AE)
