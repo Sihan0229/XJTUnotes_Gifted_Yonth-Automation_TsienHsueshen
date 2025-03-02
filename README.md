@@ -18,12 +18,15 @@ This repository compiles various course notes, exam recollections, and other lea
   * [XJTU\_MATH296007\_Engineering Mathematical Analysis](https://github.com/Sihan0229/XJTUnotes_Gifted_Yonth-Automation_TsienHsueshen/tree/main/XJTU_MATH296007_%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90)   
   * [XJTU\_AUTO402227\_Robotics](https://github.com/Sihan0229/XJTU-AUTO402227-MATLAB)          
   * [XJTU\_JZSJ400127\_Smart car project design](https://github.com/Sihan0229/XJTU-JZSJ400127)
-  * [XJTU\_MATH413107\_Numerical analysis](https://github.com/Sihan0229/XJTUnotes_Gifted_Yonth-Automation_TsienHsueshen/tree/main/XJTU_MATH413107_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%26%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95)  
+  * [XJTU\_MATH413107\_Numerical analysis](https://github.com/Sihan0229/XJTUnotes_Gifted_Yonth-Automation_TsienHsueshen/tree/main/XJTU_MATH413107_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%26%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95)
+  * [XJTU\_MACH391201\_Engineering drawing](https://github.com/Sihan0229/XJTUnotes_Gifted_Yonth-Automation_TsienHsueshen/tree/main/XJTU_MACH391201_%E5%B7%A5%E7%A8%8B%E5%9B%BE%E5%AD%A6)
 * **Electrical Minor Program Courses:**      
 
   * [XJTU\_ELEC427304\_Big Data](https://github.com/Sihan0229/XJTUnotes_Gifted_Yonth-Automation_TsienHsueshen/tree/main/XJTU_ELEC427304_%E5%A4%A7%E6%95%B0%E6%8D%AE)     
   * [XJTU\_ELEC427504-ELEC427604\_Power Electronics](https://github.com/Sihan0229/XJTU-ELEC427504-ELEC427604-Seminar)
+  * [XJTU_ELEC422904_Power equipment design principle](https://github.com/Sihan0229/XJTUnotes_Gifted_Yonth-Automation_TsienHsueshen/tree/main/XJTU_ELEC422904_%E7%94%B5%E5%8A%9B%E8%AE%BE%E5%A4%87%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86)  
 * **Elective Courses:** Includes learning materials for various elective courses.
+
 
 ## File Formats
 
